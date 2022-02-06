@@ -26,12 +26,6 @@
 
 想了解更多大厂炫酷控件，请关注微信公众号：控件人生
 
-<div align=center><img src="https://upload-images.jianshu.io/upload_images/2258857-196f00b808ab8668.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" width="200px"/></div>
-
-<div align=center>扫一扫 关注我的公众号</div>
-
-<div align=center>不定期的发放现金红包 快到碗里来~</div>
-
 ### 自定义LayoutManager
 
 ![01](https://img-blog.csdnimg.cn/20190627175756545.gif)
@@ -571,29 +565,3 @@ mPraiseAnimator.startAnimation(mIvPraise);
 <img src="https://github.com/HpWens/MCropImageView/blob/master/gif/mei_scroll.gif" width="280px"/> 
 
 文章博客地址：[仿豆瓣弹性滑动控件，史上最全方位讲解事件滑动冲突](https://www.jianshu.com/p/2d7a63455c83)
-
-## Contact
-
-QQ群：478720016
-
-## [wiki](https://github.com/HpWens/MeiWidgetView/wiki)
-
-欢迎发邮件或者提issue
-
-## LICENSE
-
-````
-Copyright 2018 文淑
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-````
