@@ -18,6 +18,10 @@
 <img src="https://img.shields.io/badge/QQ%E7%BE%A4-478720016-blue.svg">
 </div>
 
+### recycleview頭部刷新自定義樣式
+
+![图1](https://github.com/1352101891/Servers/blob/master/gt_202226_24544_v_gif.gif)；
+
 ### 最新动态-网页动态背景“五彩蛛网”
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190327112054473.gif)![在这里插入图片描述](https://img-blog.csdnimg.cn/20190326164634380.gif)
