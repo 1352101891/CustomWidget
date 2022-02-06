@@ -1,22 +1,3 @@
-<div align="left">
-<a href="https://jitpack.io/#HpWens/MeiWidgetView">
-    <img src="https://jitpack.io/v/HpWens/MeiWidgetView.svg">
-</a>		
-<a href="https://blog.csdn.net/u012551350/">
-    <img src="https://img.shields.io/scrutinizer/build/g/filp/whoops.svg">
-</a>
-<a href="https://www.apache.org/licenses/LICENSE-2.0">
-    <img src="https://img.shields.io/hexpm/l/plug.svg">
-</a>
-<a href="https://github.com/HpWens/MeiWidgetView">
-    <img src="https://img.shields.io/github/stars/HpWens/MeiWidgetView.svg?color=ff69b4">
-</a>
-<a href="https://developer.android.com/about/versions/android-4.0.3.html">
-    <img src="https://img.shields.io/badge/API-15+-blue.svg?color=orange" alt="Min Sdk Version">
-</a>
-<img src="https://img.shields.io/badge/Gamil-wsboy.code@gmail.com-blue.svg">
-<img src="https://img.shields.io/badge/QQ%E7%BE%A4-478720016-blue.svg">
-</div>
 
 ### recycleview頭部刷新自定義樣式
 
